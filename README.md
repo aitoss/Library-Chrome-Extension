@@ -2,7 +2,7 @@
 
 
 ## Description
-AITians have been paying a lot of fine just because of forgetting to re-issue the library books. Paying just because you have a bad memory doesn't seems to right isn't it? This project aims at solving this particular problem. 
+AITians have been paying a lot of fine just because of forgetting to re-issue the library books. Paying fine just because you have a bad memory doesn't seems to right isn't it? This project aims at solving this particular problem. 
 
 We plan to build a Google Chrome extension that will scrape the details of book that you issued from the library and will notify you about the re-issue date at appropriate time and will reissue the book on a click from the extension itself. Seems exiciting, isn't it?
 
