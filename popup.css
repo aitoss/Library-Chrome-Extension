@@ -5,6 +5,7 @@ body{
 .title{
     color: white;
     text-align: center;
+    text-shadow:2px 2px black;
 }
 
 .login-button{
@@ -16,4 +17,9 @@ body{
     padding:5px;
     box-shadow:2px 2px white;
     border-radius: 5px;
+}
+
+.input-box{
+    padding: 5px;
+    margin: 8px;
 }
