@@ -1,0 +1,11 @@
+{
+    "name":"library-reissue-extension",
+    "version":"1.0",
+    "description":"Extension for reissuing a book from library",
+    "browser_action":{
+        "default_icon":"pics/books_19.png",
+        "default_popup":"popup.html"
+    },
+    "manifest_version":2
+
+}
